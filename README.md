@@ -4,6 +4,8 @@ A continuación se muestran los laboratorios de Redes desarrollados en Python.
 
 ## Listado de laboratorios
 
+Dentro de cada carpeta contenedora se encuentra su respecto informe en formato `.pdf`
+
 - Laboratorio 1 : [Señales análogas y digitales](Lab1)
 - Laboratorio 2 : [Diseño de Filtros](Lab2)
 - Laboratorio 3 : [Diseño de ﬁltros de imagenes](Lab3)
